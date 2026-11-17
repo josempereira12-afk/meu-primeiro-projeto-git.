@@ -1,0 +1,21 @@
+Por que o commit é importante?
+Histórico completo e rastreabilidade: Cada commit registra exatamente o que foi alterado, quem fez a alteração, quando ela ocorreu e o motivo (através da mensagem de commit). Se um erro surgir no futuro, você sabe exatamente onde e quando ele foi introduzido.
+
+Segurança para experimentar: Como cada etapa está salva, você pode testar novas ideias ou refatorar códigos complexos sem medo. Se algo der errado, basta reverter o projeto para um commit anterior em que tudo funcionava.
+
+Organização em pequenas entregas: Incentiva você a dividir tarefas grandes em pequenas partes lógicas (ex: "cria tela de login", "corrige validação de e-mail"), facilitando a revisão e a manutenção do código.
+
+Trabalho simultâneo sem conflitos: Permite que várias pessoas trabalhem no mesmo projeto ao mesmo tempo, unindo as alterações de forma controlada posteriormente.
+
+Qual a vantagem do GitHub?
+Enquanto o Git roda localmente no seu computador para gerenciar os commits, o GitHub leva esse controle para a internet, trazendo benefícios essenciais:
+
+Backup na nuvem: Se o seu computador quebrar ou for perdido, todo o seu código e o histórico de commits estão seguros nos servidores do GitHub.
+
+Colaboração em equipe: Oferece ferramentas como Pull Requests (pedidos para revisar e integrar código) e Issues (gerenciador de tarefas e bugs), permitindo que times inteiros trabalhem juntos de forma organizada.
+
+Portfólio profissional: Para desenvolvedores, o perfil do GitHub funciona como um currículo vivo. Recrutadores e empresas frequentemente analisam seus repositórios e a frequência dos seus commits para avaliar suas habilidades práticas.
+
+Acesso ao ecossistema Open Source: É a maior comunidade de código aberto do mundo. Você pode estudar o código de grandes bibliotecas, reportar problemas e contribuir com projetos usados globalmente.
+
+Automação (CI/CD): Com recursos como o GitHub Actions, você pode configurar testes automáticos e publicar sites ou aplicativos sempre que fizer um novo commit ou atualização.
